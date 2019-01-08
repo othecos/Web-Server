@@ -1,0 +1,19 @@
+{
+  "name": "Web-Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Codebakery",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudant/cloudant": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "dotenv": "*",
+    "express": "*",
+    "jsonwebtoken": "*"
+  }
+}
