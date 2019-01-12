@@ -6,10 +6,9 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Codebakery",
+  "author": "Otavio Henrique Pires Costa (othecos@gmail.com)",
   "license": "ISC",
   "dependencies": {
-    "@cloudant/cloudant": "*",
     "body-parser": "*",
     "cors": "*",
     "dotenv": "*",
