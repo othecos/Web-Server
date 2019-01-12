@@ -12,7 +12,7 @@ $ npm -v
   ```
   
 ## Using that web-server
-  - **Install Dependencias** - You need to run npm install to use the required librarys
+  - **Install Dependencies** - You need to run npm install to use the required librarys
   ```sh
   $ npm install
   ```
